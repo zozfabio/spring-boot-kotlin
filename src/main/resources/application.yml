@@ -1,0 +1,2 @@
+logging:
+    file: /var/log/sbkotlin.log
